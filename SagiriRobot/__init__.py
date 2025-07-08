@@ -91,7 +91,7 @@ if ENV:
         raise Exception("Your whitelisted users list does not contain valid integers.")
 
 else:
-    from DazaiRobot.config import Development as Config
+    from SagiriRobot.config import Development as Config
 
     API_ID = Config.API_ID
     API_HASH = Config.API_HASH

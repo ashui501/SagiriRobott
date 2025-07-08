@@ -113,7 +113,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="⚡ᴄᴏᴍᴍᴀɴᴅꜱ⚡", callback_data="help_back"),
-        InlineKeyboardButton(text="🎵 ᴍᴜsɪᴄ 🎵", callback_data="Music_"),
+        InlineKeyboardButton(text="🎵 ᴍᴜsɪᴄ 🎵", callback_data="Donate_String"),
     ],
     [
         InlineKeyboardButton(text="◆ sᴜᴩᴩᴏʀᴛ ◆", url=f"https://t.me/{SUPPORT_CHAT}"),
